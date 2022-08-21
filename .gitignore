@@ -1,0 +1,7 @@
+backups
+database.csv
+private-github
+private-github.pub
+/venv/
+__pycache__/
+.idea
