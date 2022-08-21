@@ -9,7 +9,7 @@ print(__name__)
 user_json = {
   "name": "Martin Bachvarov",
   "jobTitle": "QA Master Engineer",
-  "bio": "Lorem...",
+  "bio": "The essential part of testing is the validation of results. In test automation, throughout each test case, we make validation checks to assure that we are getting the right results.",
   "from": "Bulgaria",
   "lives": "United Kingdom",
   "bornIn": "1988",
@@ -47,19 +47,19 @@ user_json = {
       "year": "2016",
       "degree": "ISTQB foundation level certificate",
       "school": "UDEMY",
-      "text": "Lorem..."
+      "text": "Foundation level for manual testing"
     },
     {
       "year": "2013",
       "degree": "Physiotherapy bachelor degree",
       "school": "Medical University of Sofia, Bulgaria",
-      "text": "Lorem..."
+      "text": "Graduated physiotherapist."
     },
     {
       "year": "2007",
       "degree": "High-School diploma",
       "school": "Jordan Jovkov high school of Tutrakan",
-      "text": "Lorem..."
+      "text": "Mathematics and Informatics high school diploma"
     }
   ],
   "experience": [
@@ -67,13 +67,13 @@ user_json = {
       "year": "2019 - Current",
       "title": "QA: Rank Automation Engineer",
       "company": "Tandem Bank",
-      "text": "Lorem..."
+      "text": "Crafting frameworks and design test implementation."
     },
     {
       "year": "2017",
       "title": "QA: Rank Manual Tester",
       "company": "ZIBID Ltd",
-      "text": "Lorem ..."
+      "text": "Writing automated front end test cases and executing part of them manually in test environment."
     }
 
   ]
